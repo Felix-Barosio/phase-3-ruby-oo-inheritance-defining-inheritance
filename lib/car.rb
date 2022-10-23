@@ -10,4 +10,4 @@ class Car < Vehicle
 
 end
 
-binding.pry
+# binding.pry
